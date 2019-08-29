@@ -10,14 +10,14 @@ The Bay Wheels trip history data was presented in multiple zip folders for each 
 - Start Time and Date
 - End Time and Date
 - Start Station ID
-Start Station Name
-Start Station Latitude
-Start Station Longitude
-End Station ID
-End Station Name
-End Station Latitude
-End Station Longitude
-Bike ID
-User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
-Member Year of Birth
-Member Gender
+- Start Station Name
+- Start Station Latitude
+- Start Station Longitude
+- End Station ID
+- End Station Name
+- End Station Latitude
+- End Station Longitude
+- Bike ID
+- User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+- Member Year of Birth
+- Member Gender
