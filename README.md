@@ -21,3 +21,7 @@ The Bay Wheels trip history data was presented in multiple zip folders for each 
 - User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
 - Member Year of Birth
 - Member Gender
+
+## If Notebook fails to render:
+GitHub seem to have reacurign problem where it would not render a Jupyter notbook and gives the "Sorry, something went wrong. Reload?". In oreder to open a notebook please use nbviwer - copy and paste the link to the notebook here:
+ "https://nbviewer.jupyter.org/"
