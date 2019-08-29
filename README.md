@@ -6,10 +6,10 @@ In this analysis I compared how trends of peolple using bike sharing service dif
 
 # Structure of dataset.
 The Bay Wheels trip history data was presented in multiple zip folders for each month of the year starting from 2017 through July 2019. After collecting and combining all of the bike trip data avalable I have a dataset containing over 3 million entries (rows) and 17 colunmns. Original columns of dataset include following:
-Trip Duration (seconds)
-Start Time and Date
-End Time and Date
-Start Station ID
+- Trip Duration (seconds)
+- Start Time and Date
+- End Time and Date
+- Start Station ID
 Start Station Name
 Start Station Latitude
 Start Station Longitude
